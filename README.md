@@ -7,3 +7,5 @@ For information on the LHC Olympics 2020, see [this website](https://indico.cern
 ## Getting Started
 
 The jupyter notebooks here have some example code for reading in the data and doing some basic manipulation.  To install pyjet, see [this page](https://github.com/scikit-hep/pyjet). Fastjet is available [here](http://fastjet.fr/).
+
+https://mybinder.org/v2/gh/marianaiv/parsingscripts/769d906d19f3c946fd31bf731e4bc5e4bd3593c5
